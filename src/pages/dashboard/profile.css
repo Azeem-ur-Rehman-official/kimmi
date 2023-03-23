@@ -1,0 +1,95 @@
+@charset "UTF-8";
+.profile-user-img {
+  width: 125px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+}
+
+.avatar-upload {
+  position: relative;
+  max-width: 205px;
+ 
+  margin-bottom: 20px;
+  
+}
+.avatar-upload .avatar-edit {
+  position: absolute;
+  right: 33px;
+  z-index: 1;
+  top: 60px;
+  
+  
+}
+.avatar-upload .avatar-edit input {
+  display: none;
+}
+.avatar-upload .avatar-edit input + label {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+   margin-right: 40px;
+  margin-bottom: 0;
+  border-radius: 100%;
+  background: #ffffff;
+  border: 1px solid #d2d6de;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  font-weight: normal;
+  transition: all 0.2s ease-in-out;
+  border: 2px solid #003366;
+}
+.avatar-upload .avatar-edit input + label:hover {
+  background: #f1f1f1;
+  border-color: #d6d6d6;
+}
+.avatar-upload .avatar-edit input + label:after {
+  content: "";
+  font-family: "FontAwesome";
+  color: #337ab7;
+  position: absolute;
+  left: 0;
+  right: 38px;
+  text-align: center;
+  line-height: 32px;
+  margin: auto;
+}
+.img-circle{
+    border-radius: 50%;
+    border: 2px solid #003366;
+    width: 114px;
+height: 114px;
+}
+.form-btns{
+    position: absolute;
+    top: 25px;
+    right: 14px;
+}
+.login-label {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    margin-bottom: 0;
+    width: 100%;
+    justify-content: start;
+}
+
+
+.underBorder{
+     border: 2px solid #8DC73F;
+    width: 50px;
+    height: 0px;
+    position: relative;
+    display: inline-block;
+    top: 12px;
+    right: 48px;
+}
+.underBorder2{
+     border: 2px solid #8DC73F;
+    width: 67px;
+    height: 0px;
+    position: relative;
+    display: inline-block;
+    top: 12px;
+    right: 65px;
+}

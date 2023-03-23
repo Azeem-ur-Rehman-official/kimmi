@@ -1,0 +1,85 @@
+.login-label {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    margin-bottom: 0;
+    width: 100%;
+    justify-content: start;
+}
+
+.loginInput {
+ margin-top: 20px;
+    height: 45px;
+    width: 100%;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    background: white;
+    border-radius: 2px;
+     border: none;
+    border-bottom: 1px solid #6620AB;
+    font-weight: 400;
+font-size: 14px;
+}
+.loginInput [type=text]:focus {
+  outline: none;
+}
+
+.errortrue {
+    border-bottom: 1px solid red;
+}
+
+.navLogIn {
+    border: 0;
+    background: transparent;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+.signup-background{
+ 
+   height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+
+.loginForm{
+  width: 70%;
+  border-radius: 30px;
+}
+.loginLogo{
+  width: 30%;
+}
+.hide-show{
+      position: relative;
+    top: 30px;
+    right: 6px;
+    font-size: 18px;
+}
+.login-content{
+  font-weight: 500;
+font-size: 64px;
+line-height: 75px;
+letter-spacing: 0.18em;
+width: 445px;
+color: #FFFFFF;
+
+}
+.login-content span{
+  width: 411px;
+height: 149px;
+font-style: italic;
+font-weight: 700;
+width: 100%;
+color: #DB2777;
+background: rgba(255, 255, 255, 0.25);
+}

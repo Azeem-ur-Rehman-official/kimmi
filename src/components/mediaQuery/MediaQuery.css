@@ -1,0 +1,185 @@
+@media only screen and (min-width: 1100px) and (max-width: 1300px) {
+    .navbar-expand-lg .navbar-nav .nav-link .fs-16 {
+        font-size: 13px;
+    }
+
+    .navDropdown .fs-22 {
+        font-size: 14px;
+    }
+
+    .navDropdown .fs-14 {
+        font-size: 11px;
+    }
+
+    .navDropdown {
+        gap: 10px !important;
+    }
+
+    .fs-15 {
+        font-size: 13px;
+    }
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .fs-14 {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+
+    .fs-15 {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .fs-16 {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    .fs-22 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .setWidthDropsdown-1024 {
+        width: 51%;
+    }
+
+    .setWidthDateButtonBtn-1024 {
+        width: 100%;
+    }
+
+    .w-100-1024 {
+        width: 100%;
+    }
+
+    /* .navbar-expand-lg .navbar-collapse {
+    display: grid !important;
+    flex-basis: auto !important;
+  } */
+    .justify-end-1024 {
+        justify-content: end;
+    }
+
+    .gap-0-1024 {
+        gap: 0px !important;
+    }
+
+    .usernamecol-w {
+        width: 65%;
+    }
+
+    .navbar-expand-lg {
+        height: 89px !important;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width:425px) {
+    .notificationDropdown {
+        margin-left: -181px !important;
+    }
+
+    .navDropdown {
+        gap: 10px;
+    }
+
+    .fs-10 {
+        font-size: 9px;
+        margin-bottom: 0;
+    }
+
+    .fs-11 {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .fs-12 {
+        font-size: 10px;
+        margin-bottom: 0;
+    }
+
+    .fs-13 {
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+
+    .fs-14 {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .fs-15 {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .fs-16 {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    .fs-22 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+
+    .gap-3 {
+        gap: 10px !important;
+    }
+}
+
+@media only screen and (min-width: 2000px) and (max-width:2660px) {
+
+
+    .fs-10 {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    .fs-11 {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .fs-12 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+
+    .fs-13 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .fs-14 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+
+    .fs-15 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+
+    .fs-16 {
+        font-size: 19px;
+        margin-bottom: 0;
+    }
+
+    .fs-22 {
+        font-size: 24px;
+        margin-bottom: 0;
+    }
+
+    .modalLabel,
+    .panel-title a {
+        font-size: 16px !important;
+    }
+
+    .table thead th,
+    .table td {
+        font-size: 17px !important;
+    }
+}

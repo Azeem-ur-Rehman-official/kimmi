@@ -1,0 +1,184 @@
+.newOrder-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+
+  width: 91px;
+  height: 40px;
+  background: #c9f9cd;
+  border-radius: 2px;
+  border: 0;
+}
+
+.watchlist-btn,
+.download-btn,
+.outline-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #0a4550;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 6px 16px 6px 16px;
+  gap: 2px;
+  /* height: 40px; */
+  background: #ffffff;
+  border: 1px solid #0a4550;
+  border-radius: 2px;
+  justify-content: center;
+  height: 40px;
+}
+
+.modalSavebtn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+
+  height: 40px;
+  background: #0a4550;
+  border-radius: 3px;
+  border: 0;
+}
+
+.buy-btn,
+.sell-btn,
+.alert-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  height: 40px;
+  background: #23a971;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border: 0;
+}
+
+.sell-btn {
+  background: #d85b6a !important;
+}
+
+.alert-btn {
+  background: #0a4550 !important;
+}
+
+.closePosition-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: #0a4550;
+  border-radius: 3px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  border: 0;
+  height: 40px;
+}
+
+.bgdarkgreen {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+  background: #0a4550;
+  border-radius: 3px;
+  border: 0;
+  padding: 8px 16px;
+}
+
+.orderbookTable-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 8px;
+  background: #f4f4f4;
+}
+
+.loginButton {
+  height: 42px;
+  background: #6620AB;
+  border-radius: 6px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+  border: 0;
+  padding: 0 30px;
+  justify-content: center;
+}
+.social-icons{
+  background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 41px;
+padding: 5px;
+font-size: 16px;
+}
+.social{
+  font-size: 26px;
+}
+.tryPro-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #0A4550;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 11px 16px 9px;
+  height: 40px;
+  background: #C9F9CD;
+  border-radius: 2px;
+}
+
+.unsuscriobeFromAll-btn {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.1px;
+  color: #0A4550;
+  background: transparent;
+  border: 0;
+}

@@ -1,0 +1,26 @@
+.myBorder {
+  border: 2px solid #bcbcbc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 6px;
+      height: -webkit-fill-available;
+}
+.passIcon {
+  font-size: 23px;
+  margin-right: 4px;
+  margin-left: 5px;
+}
+.cancelBtn{
+  border: 2px solid #BCBCBC;
+border-radius: 6px;
+color: #BCBCBC;
+height: 42px;
+padding: 0 30px;
+}
+.sidebar > span{
+cursor: pointer;
+}
+.under{
+  border: 2px solid #BCBCBC;
+  width: 350px;
+height: 0px;
+}

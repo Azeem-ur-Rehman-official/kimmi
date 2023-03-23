@@ -1,0 +1,2 @@
+scp -r ./build/* varcity1@varcityda.canadacentral.cloudapp.azure.com:/datadrive/da/web
+
